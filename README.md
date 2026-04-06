@@ -1,11 +1,38 @@
-### Hi, i'm vijit — I build ML systems that train cleanly and run reliably.
+### Hi, I’m Vijit 👋  
+**Machine Learning Engineer building scalable, production-ready AI systems.**
 
-- **train systems**: AMP, checkpoints, MLflow runs/artifacts
-- **observe**: profiler traces, cohort metrics, drift checks
-- **serve**: FastAPI + batching, p95 latency SLOs, Docker
+I focus on taking models from experimentation to reliable, real-world deployment — especially for large-scale geospatial and data-intensive applications.
 
-**My work** 
-→ [ml-systems-starter](https://github.com/<you>/ml-systems-starter)
-→ [Agentic-AI Fitness Tracker](https://github.com/vijit-AI/multi-agentic-fitness-tracker)
-→ [PRGuard](https://github.com/<you>/PRGuard)
-          
+- **Train systems** → mixed precision (AMP), reproducible pipelines, MLflow tracking  
+- **Observe & improve** → profiling, cohort metrics, drift detection  
+- **Serve at scale** → FastAPI, batching strategies, latency-aware design (p95 SLOs), Docker  
+
+---
+
+### 🚀 Selected Work  
+
+**ML Systems Starter**  
+Production-oriented template for training, tracking, and deploying ML models end-to-end  
+🔗 https://github.com/<you>/ml-systems-starter  
+
+**Agentic AI Fitness Tracker**  
+Multi-agent system combining health data + external knowledge for adaptive insights  
+🔗 https://github.com/<you>/multi-agentic-fitness-tracker  
+
+**PRGuard**  
+AI-assisted code review system for enforcing quality, structure, and best practices in PRs  
+🔗 https://github.com/<you>/PRGuard  
+
+---
+
+### ⚡ What I Care About  
+- Building systems that **don’t break in production**  
+- Balancing **model performance vs system efficiency**  
+- Designing workflows that scale from **local → cloud → real users**
+
+---
+
+### 🔍 Currently Exploring  
+- Agentic workflows & MCP-style orchestration  
+- ML system design for large-scale data (imagery, LiDAR)  
+- Practical MLOps that teams actually use  
